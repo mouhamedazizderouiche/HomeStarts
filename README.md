@@ -1,4 +1,4 @@
-# HomeStars MVP
+# HomeStarts# HomeStars MVP
 
 HomeStars is a dark-themed football scouting web app where users can:
 
