@@ -1,0 +1,21 @@
+module.exports = [
+  { name: "Tunisia", slug: "Tunisia", iso2: "tn" },
+  { name: "Morocco", slug: "Morocco", iso2: "ma" },
+  { name: "Algeria", slug: "Algeria", iso2: "dz" },
+  { name: "Senegal", slug: "Senegal", iso2: "sn" },
+  { name: "Nigeria", slug: "Nigeria", iso2: "ng" },
+  { name: "Egypt", slug: "Egypt", iso2: "eg" },
+  { name: "Ivory Coast", slug: "Ivory_Coast", iso2: "ci" },
+  { name: "Ghana", slug: "Ghana", iso2: "gh" },
+  { name: "Cameroon", slug: "Cameroon", iso2: "cm" },
+  { name: "Mali", slug: "Mali", iso2: "ml" },
+  { name: "Brazil", slug: "Brazil", iso2: "br" },
+  { name: "Argentina", slug: "Argentina", iso2: "ar" },
+  { name: "France", slug: "France", iso2: "fr" },
+  { name: "Portugal", slug: "Portugal", iso2: "pt" },
+  { name: "Spain", slug: "Spain", iso2: "es" },
+  { name: "Germany", slug: "Germany", iso2: "de" },
+  { name: "Japan", slug: "Japan", iso2: "jp" },
+  { name: "South Korea", slug: "South_Korea", iso2: "kr" },
+  { name: "Saudi Arabia", slug: "Saudi_Arabia", iso2: "sa" }
+];
